@@ -19,8 +19,7 @@
 - On the contrary display:none will collapse around it.
 
 ## JS
-
-
+1. 
 
 # TO-DO
 1. trying to apply responsive design
