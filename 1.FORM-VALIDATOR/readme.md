@@ -19,7 +19,8 @@
 - On the contrary display:none will collapse around it.
 
 ## JS
-1. 
+1. preventDefault()
+- 'submit' cause refresh the page. event.preventDefault() can intercept it.
 
 # TO-DO
 1. trying to apply responsive design
