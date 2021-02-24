@@ -21,7 +21,7 @@ prev.addEventListener('click', () => {
 
 const update = () => {
   progress.style.width =
-    ((activeCircle - 1) / (circles.length - 1)) * 100 + '%';
+    ((activeCircle - 1) / (circles.length - 1)) * 100 - 1 + '%';
   circles.forEach((circle, idx) => {
     if (activeCircle > idx) {
       circle.classList.add('active');
