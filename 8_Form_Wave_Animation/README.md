@@ -1,3 +1,3 @@
-#Form Wave Animation
-##by using css transition cubic-bezier and transition-delay
+# Form Wave Animation
+## by using css transition cubic-bezier and transition-delay
 ![](what.gif)
