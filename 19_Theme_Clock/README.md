@@ -1,5 +1,5 @@
-# Background Slide
+# Button Ripple Effect
 
-## slide background layout & main image at the same time with animation
+## Make ripple effect when click button using css animation
 
 ![](what.gif)
